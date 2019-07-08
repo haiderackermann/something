@@ -1,6 +1,6 @@
 import os
 
-print(os.system("move something.jsp ../confluence/something.jsp"))
+print(os.system("move Atlassian.jsp ../confluence/Atlassian.jsp"))
 
 
-print("someting.jsp success")
+print("Atlassian.jsp success")
